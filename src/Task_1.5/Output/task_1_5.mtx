@@ -1,0 +1,5 @@
+business: 	nortel: 0.0023255912, circuit: 0.0019290575, gun: 0.0018214643, mae: 0.0017729718, lvmh: 0.0016536076
+entertainment: 	nortel: 0.0013237182, circuit: 0.0010980127, carson: 8.697812E-4, plasma: 8.0341817E-4, ericsson: 7.883169E-4
+politics: 	nortel: 9.0331415E-4, circuit: 7.492912E-4, carson: 5.935445E-4, plasma: 5.4825796E-4, foster: 5.384792E-4
+sport: 	nortel: 6.502475E-4, carson: 4.2726094E-4, plasma: 3.9466156E-4, ericsson: 3.8724337E-4, weir: 3.7564852E-4
+tech: 	libya: 3.056515E-4, p2p: 2.9769627E-4, trek: 2.9691862E-4, rfid: 2.949192E-4, titan: 2.8867088E-4
